@@ -27,7 +27,7 @@ let tarifJSON = `[
   "period": "/мес",
   "classHeader": "redHeader",
   "classBody": "redBody",
-  "classTarif": "tarif_red"
+  "classTarif": ""
 },
 {
   "tarif": "1000",
